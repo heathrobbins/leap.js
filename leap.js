@@ -1,3 +1,5 @@
+//solution to leap in javascript on exercism.io
+
 function findLeap(year){
      if (year % 4 = 0 && year % 100 = 0){
 	console.log("It's a leap year!");
